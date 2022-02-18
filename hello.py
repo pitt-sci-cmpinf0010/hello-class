@@ -2,5 +2,5 @@ import getpass
 
 usr = getpass.getuser()
 
-print("Hello, " + usr + ".")
+print("This, " + usr + " is epic .")
 print("Thanks for cloning my repo!")
